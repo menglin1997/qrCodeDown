@@ -1,4 +1,4 @@
-# hello-world
+# 关于二维码生成 并下载的项目
 
 ## Project setup
 ```
@@ -25,5 +25,4 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
